@@ -1,8 +1,12 @@
 
 body  {
-   background-color: #ccffff;
+   background-color: #ffffcc;
+}
+
+div#container {
    width: 500px;
    margin-left: auto;
    margin-right: auto;
-   background-color: white;
+   background-color: #ccffff;
+   padding: 30px;
 }
